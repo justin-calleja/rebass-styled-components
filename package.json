@@ -7,8 +7,12 @@
     "lint": "prettier --check \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
+    "@rebass/preset": "^4.0.5",
+    "emotion-theming": "^11.0.0",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "rebass": "^4.0.7",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "@snowpack/plugin-dotenv": "^2.0.5",
