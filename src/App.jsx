@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { ThemeProvider } from 'styled-components';
+// import { ThemeProvider } from 'theme-ui';
+// import { ThemeProvider } from 'emotion-theming';
+// import { ThemeProvider } from '@emotion/react';
 import theme from '@rebass/preset';
 import Box from './Box';
 
